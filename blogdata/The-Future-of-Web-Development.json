@@ -1,0 +1,28 @@
+
+{
+    "title": "The Future of Web Development",
+    "datePosted": "2023-12-15",
+    "author": {
+        "name": "John Smith",
+        "role": "Senior Web Developer",
+        "email": "john.smith@example.com"
+    },
+    "content": "The landscape of web development is rapidly evolving. With the emergence of new frameworks, tools, and technologies, developers are constantly adapting to meet modern demands. Key trends include the rise of JAMstack architecture, increased adoption of WebAssembly, and the growing importance of Progressive Web Apps (PWAs). AI and machine learning are also making their way into web development, enabling more intelligent and personalized user experiences. As we look ahead, the focus remains on creating faster, more secure, and more accessible web applications.",
+    "tags": [
+        "Web Development",
+        "Technology Trends",
+        "Frontend",
+        "Backend",
+        "Future Tech"
+    ],
+    "readTime": "5 minutes",
+    "category": "Technology",
+    "lastModified": "2023-12-15",
+    "featured": true,
+    "thumbnailUrl": "/images/web-dev-future.jpg",
+    "metaDescription": "Explore the emerging trends and technologies shaping the future of web development",
+    "comments": [],
+    "likes": 0,
+    "shares": 0,
+    "slug": "The-Future-of-Web-Development.json"
+}

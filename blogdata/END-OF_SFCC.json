@@ -1,0 +1,27 @@
+  {
+      "title": "The End of SFCC: What Lies Ahead",
+      "datePosted": "2023-12-15",
+      "author": {
+          "name": "Jane Doe",
+          "role": "Lead Software Engineer",
+          "email": "jane.doe@example.com"
+      },
+      "content": "As we approach the end of the Salesforce Commerce Cloud (SFCC) era, it's essential to reflect on the changes and advancements that have shaped the e-commerce landscape. The shift towards more flexible and scalable solutions is evident, with businesses increasingly adopting headless commerce architectures. This transition allows for greater customization and integration with various platforms, enhancing the overall customer experience. The rise of AI and machine learning is also influencing how we approach e-commerce, providing insights and automation that were previously unattainable. As we move forward, understanding these trends will be crucial for developers and businesses alike.",
+      "tags": [
+          "E-commerce",
+          "SFCC",
+          "Headless Commerce",
+          "Future Trends",
+          "Technology"
+      ],
+      "readTime": "6 minutes",
+      "category": "E-commerce",
+      "lastModified": "2023-12-15",
+      "featured": true,
+      "thumbnailUrl": "/images/end-of-sfcc.jpg",
+      "metaDescription": "Discover the implications of the end of SFCC and the future of e-commerce technology.",
+      "comments": [],
+      "likes": 0,
+      "shares": 0,
+      "slug":"END-OF_SFCC.json"
+  }

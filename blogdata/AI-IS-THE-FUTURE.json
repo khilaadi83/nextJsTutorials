@@ -1,0 +1,27 @@
+  {
+      "title": "AI is the Future of Technology",
+      "datePosted": "2023-12-15",
+      "author": {
+          "name": "Jane Doe",
+          "role": "AI Researcher",
+          "email": "jane.doe@example.com"
+      },
+      "content": "Artificial Intelligence is transforming various sectors, including healthcare, finance, and transportation. As AI technologies advance, they are enabling more efficient processes, enhancing decision-making, and creating new opportunities for innovation. Key developments include natural language processing, computer vision, and autonomous systems. The future of AI promises to bring even more profound changes, with a focus on ethical considerations and the impact on society. As we embrace these advancements, the importance of responsible AI development cannot be overstated.",
+      "tags": [
+          "Artificial Intelligence",
+          "Technology Trends",
+          "Innovation",
+          "Future Tech",
+          "Ethics"
+      ],
+      "readTime": "6 minutes",
+      "category": "Technology",
+      "lastModified": "2023-12-15",
+      "featured": true,
+      "thumbnailUrl": "/images/ai-future.jpg",
+      "metaDescription": "Discover how AI is shaping the future of technology and its implications for various industries.",
+      "comments": [],
+      "likes": 0,
+      "shares": 0,
+      "slug": "AI-IS-THE-FUTURE.json"
+  }
