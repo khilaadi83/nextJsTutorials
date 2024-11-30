@@ -6,8 +6,8 @@
       if (req.method === 'POST') {
           // Handle the POST request
           const data = req.body;
-          const { name, lastname, phone, email } = data;
-          console.log(name);
+          const { name, email, message } = data;
+          console.log(data);
 
           // Save the data to a file
           const filePath = path.join(process.cwd(), 'data.json');
