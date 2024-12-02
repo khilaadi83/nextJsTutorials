@@ -1,2 +1,34 @@
 // to create a you nextjs boilerplate use this 
 npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/main/basics/learn-starter"
+
+
+________________________________________________________________________________
+
+2. Add bootstrap
+npm i bootstrap
+
+create a new file under pages/_app.js
+
+import "bootstrap/dist/css/bootstrap.min.css";
+import "../styles/global.css";
+import { useEffect } from "react";
+
+
+function MyApp({ Component, pageProps }) {
+  useEffect(() => {
+    require("bootstrap/dist/js/bootstrap.bundle.min.js");
+  }, []);
+
+  return (
+    <>
+
+      <Component {...pageProps} />
+    </>
+  );
+}
+
+export default MyApp;
+
+
+__________________________________________________________________________________
+
